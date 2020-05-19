@@ -13,3 +13,10 @@
     content: '🔻';
     margin-right: 0;
 }
+
+.table td,
+.table th {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 3px solid #a6b9cc;
+}
